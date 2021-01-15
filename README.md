@@ -7,13 +7,21 @@ Here are some ideas to get you started:
 
 
 ### 👩🏻‍💻 sky 👩🏻‍💻
+
+
+
 - my keyword: #startup #Interested_In_backend #entrepreneurship
 
+
 - I have been studying ..
+  
+  
   Java, Python, DB(Oracle, MySQL), Spring (boot, legacy), ORM(JPA), MyBatis, JSP/Servlet
   jQuery, ajax, html, css
 
 - I interested in ..
+  
+  
   service development, back office, excercise,
   play with my cats
 
