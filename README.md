@@ -11,12 +11,18 @@
   
   
   Java, Python, DB(Oracle, MySQL), Spring (boot, legacy), ORM(JPA), MyBatis, JSP/Servlet
+  
+  
+  
   jQuery, ajax, html, css
 
 - I interested in ..
   
   
   service development, back office, excercise,
+  
+  
+  
   play with my cats
 
 
