@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Jeong-sky-1003/Jeong-sky-1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Startup
@@ -16,4 +13,8 @@ Here are some ideas to get you started:
   Java, Python, DB(Oracle, MySQL), Spring (boot, legacy), ORM(JPA), MyBatis, JSP/Servlet
   jQuery, ajax, html, css
 
+
+
+<!--
+**Jeong-sky-1003/Jeong-sky-1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
