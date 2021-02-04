@@ -8,7 +8,7 @@
 
 
 
-- I wanna be a backend-developer who solves customer problems.
+- I wanna be a backend-developer who solves customer problems with technology.
 
 
 
