@@ -7,6 +7,11 @@
 #startup  #backend   #entrepreneurship
 
 
+
+- I wanna be the backend-developer who solves customer problems.
+
+
+
 - I have been studying ..
   
   
