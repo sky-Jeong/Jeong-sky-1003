@@ -19,7 +19,7 @@
   
   
   
-  jQuery, ajax, html, css
+  ajax, html, css, BootStrap
 
 - I interested in ..
   
