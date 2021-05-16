@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### sky 👩🏻‍💻 [ contect. cat2978@naver.com ]
+### sky 👩🏻‍💻 [ contact. cat2978@naver.com ]
 
 
 
