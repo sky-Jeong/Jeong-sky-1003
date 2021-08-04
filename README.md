@@ -15,10 +15,9 @@
 - I have been studying ..
   
   
-  Java, Python, DB(Oracle, MySQL), Spring (boot, legacy), ORM(JPA), MyBatis, JSP/Servlet
+  Java, Python, DB(Oracle, MySQL), Spring (boot, framework), ORM(JPA), MyBatis, JSP/Servlet
   
-  
-  
+ 
   ajax, html, css, BootStrap
 
 - I interested in ..
