@@ -8,26 +8,26 @@
 
 
 
-- I wanna be a backend-developer who solves customer problems with technology.
+- 현 업무
+  
+  
+  쇼핑몰 제휴 시스템 JAVA 개발 및 운영
 
 
 
-- I have been studying ..
+- 기수 스택
   
   
   Java, Python, DB(Oracle, MySQL), Spring (boot, framework), ORM(JPA), MyBatis, JSP/Servlet
   
  
   ajax, html, css, BootStrap
+  
 
-- I interested in ..
+- 관심사
   
   
-  service development, back office, excercise,
-  
-  
-  
-  play with my cats
+  백 오피스 / 비즈니스 플랫폼 / 서비스 개발
 
 
 <!--
