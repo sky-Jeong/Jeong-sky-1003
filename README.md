@@ -15,7 +15,7 @@
 
 
 
-- 기수 스택
+- 기술 스택
   
   
   Java, Python, DB(Oracle, MySQL), Spring (boot, framework), ORM(JPA), MyBatis, JSP/Servlet
