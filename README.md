@@ -1,14 +1,14 @@
-### Hi there 👋
+### 데이터로 개선하는 백엔드 개발자 🙌🏻
 
 ### sky 👩🏻‍💻 [ contact. cat2978@naver.com ]
 
 
 
-#startup  #backend   #entrepreneurship
+#eCommerce  #business    #backend   #entrepreneurship
 
 
 
-- 현 업무
+- 업무 경험
   
   
   쇼핑몰 제휴 시스템 JAVA 개발 및 운영
@@ -18,16 +18,15 @@
 - 기술 스택
   
   
-  Java, Python, DB(Oracle, MySQL), Spring (boot, framework), ORM(JPA), MyBatis, JSP/Servlet
+  Java, Python, DB(Oracle, MySQL), Spring (boot, framework), ORM(JPA), MyBatis
   
- 
-  ajax, html, css, BootStrap
+  ajax, jQuery, jsp, javascript
   
 
 - 관심사
   
   
-  백 오피스 / 비즈니스 플랫폼 / 서비스 개발
+  백 오피스 / 비즈니스 플랫폼 / 서비스 개발 및 안정화 / 반려동물
 
 
 <!--
