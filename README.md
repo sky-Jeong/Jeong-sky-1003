@@ -1,31 +1,41 @@
-### 데이터로 개선하는 백엔드 개발자 🙌🏻
+### 데이터로 개선하는 백엔드 개발자 정하늘 🙌🏻
 
-### sky 👩🏻‍💻 [ contact. cat2978@naver.com ]
-
-
-
-#eCommerce  #business    #backend   #entrepreneurship
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sky-1003&them=algolia&show_icons=true) 
 
 
-
-- 업무 경험
-  
-  
-  쇼핑몰 제휴 시스템 개발 및 운영
+<div>
+안녕하세요! 데이터로 개선하는 주니어 백엔드 개발자 정하늘입니다.
 
 
-- 기술 스택
-  
-  
-  Java, Python, DB(Oracle, MySQL), Spring (boot, framework), ORM(JPA), MyBatis
-  
-  ajax, jQuery, jsp, javascript
-  
+비즈니스 발전에 기여하는 개발과 운영을 지향하며, 문제해결은 문제인지로부터 문제인지는 데이터로부터 온다고 생각합니다.
 
-- 관심사
-  
-  
-  백 오피스 / 비즈니스 플랫폼 / 서비스 개발 및 안정화 / 반려동물
+
+모니터링 중 잦게 발생하는 로그, 잦은 클레임들의 원인에 우선순위를 두어 서비스 개선에 기여하고자 노력합니다.
+
+
+이 깃허브는 기술적 성장을 통한 지향하는 개발자로 거듭나기 위한 저의 기록을 담고자 합니다.
+
+
+화이팅! 🙌🏻
+
+[ contact. cat2978@naver.com ]
+
+</div>
+
+
+
+> Github stats
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-sky-1003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+> BOJ Level
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=cat2978)](https://solved.ac/cat2978)    
+
 
 
 <!--
