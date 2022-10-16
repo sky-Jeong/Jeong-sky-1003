@@ -5,12 +5,6 @@
 
 <div>
 
-이 깃허브는 기술적 성장을 통한 지향하는 개발자로 거듭나기 위한 저의 기록을 담고자 합니다.
-
-
-화이팅! 🙌🏻
-  
-
 <a href="https://sky-abraxas.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-9999FF?style=flat-square&logo=Bloglovin&logoColor=#9999FF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/jeong_sky_96/" target="_blank"><img src="https://img.shields.io/badge/instagram-00B3E0?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/하늘-정-494760130/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
